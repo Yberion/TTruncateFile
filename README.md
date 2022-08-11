@@ -1,1 +1,1 @@
-# TTruncateFile
+TTruncateFile
